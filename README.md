@@ -57,6 +57,13 @@ The goal of this repo is to help developers explore **creative web design patter
 - [Node.js](https://nodejs.org/en)  
 - [npm](https://www.npmjs.com/)  
 
+**Cloning the Repository**
+
+```bash
+git clone https://github.com/i-dont-know-45/awwwards-website
+cd awwwards-website
+```
+
 **Installation**
 
 Install the project dependencies using npm:
