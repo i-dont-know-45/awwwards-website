@@ -60,8 +60,10 @@ The goal of this repo is to help developers explore **creative web design patter
 **Cloning the Repository**
 
 ```bash
+
 git clone https://github.com/i-dont-know-45/awwwards-website
 cd awwwards-website
+
 ```
 
 **Installation**
