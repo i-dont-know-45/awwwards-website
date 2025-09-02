@@ -12,7 +12,6 @@
 
 <h2 align="center">An Awwwards Winning Website</h2>
 
----
 
 ## 📋 Table of Contents
 1. 🤖 [Introduction](#introduction)  
@@ -23,13 +22,11 @@
 6. 🔗 [Assets](#assets)  
 7. 🚀 [License & Credits](#license--credits)  
 
----
 
 ## ⚠️ Disclaimer
 
 Special thanks to **[Zentry](https://zentry.com/)** for the design inspiration. This project is intended for learning and personal exploration only, not for commercial use or public release.
 
----
 
 ## 🤖 Introduction
 This project is a **visually captivating website** inspired by [Zentry](https://zentry.com/).  
@@ -37,14 +34,12 @@ It demonstrates how to combine **scroll-based animations, dynamic transitions, a
 
 The goal of this repo is to help developers explore **creative web design patterns**, experiment with animation frameworks, and improve UI/UX building skills.  
 
----
 
 ## ⚙️ Tech Stack
 - ⚛️ **React.js** – component-based frontend framework  
 - 🎨 **Tailwind CSS** – utility-first styling for fast, responsive layouts  
 - 🎬 **GSAP** – high-performance animations and scroll triggers  
 
----
 
 ## 🔋 Features
 👉 **Scroll Animations** – Smooth, interactive effects triggered by user scroll.  
@@ -54,7 +49,6 @@ The goal of this repo is to help developers explore **creative web design patter
 👉 **Responsive Layout** – Works seamlessly across devices.  
 👉 **Reusable Components** – Scalable and modular code structure.  
 
----
 
 ## 🤸 Quick Start
 
@@ -171,7 +165,90 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
 
   .indicator-line.active {
     animation: indicator-line 0.5s ease infinite;
-    animation-delay: calc(var(--animation-order) * 0.1s);
+    animation-delay: calc(var(<div align="center">
+      <br />
+        <img src="https://github.com/user-attachments/assets/ab600f24-f4d9-4cef-8f1e-3fd9194afb30" alt="Project Banner">
+      <br />
+    
+      <div>
+        <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
+        <img src="https://img.shields.io/badge/-GSAP-black?style=for-the-badge&logoColor=white&logo=greensock&color=88CE02" alt="greensock" />
+        <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
+      </div>
+    </div>
+    
+    <h2 align="center">An Awwwards Winning Website</h2>
+    
+    ## 📋 Table of Contents
+    1. 🤖 [Introduction](#introduction)
+    2. ⚙️ [Tech Stack](#tech-stack)
+    3. 🔋 [Features](#features)
+    4. 🤸 [Quick Start](#quick-start)
+    5. 🕸️ [Snippets](#snippets)
+    6. 🔗 [Assets](#assets)
+    7. 🚀 [License & Credits](#license--credits)
+    
+    ## ⚠️ Disclaimer
+    
+    Special thanks to **[Zentry](https://zentry.com/)** for the design inspiration. This project is intended for learning an<div align="center">
+      <br />
+        <img src="https://github.com/user-attachments/assets/ab600f24-f4d9-4cef-8f1e-3fd9194afb30" alt="Project Banner">
+      <br />
+    
+      <div>
+        <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
+        <img src="https://img.shields.io/badge/-GSAP-black?style=for-the-badge&logoColor=white&logo=greensock&color=88CE02" alt="greensock" />
+        <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
+      </div>
+    </div>
+    
+    <h2 align="center">An Awwwards Winning Website</h2>
+    
+    ## 📋 Table of Contents
+    1. 🤖 [Introduction](#introduction)
+    2. ⚙️ [Tech Stack](#tech-stack)
+    3. 🔋 [Features](#features)
+    4. 🤸 [Quick Start](#quick-start)
+    5. 🕸️ [Snippets](#snippets)
+    6. 🔗 [Assets](#assets)
+    7. 🚀 [License & Credits](#license--credits)
+    
+    ## ⚠️ Disclaimer
+    
+    Special thanks to **[Zentry](https://zentry.com/)** for the design inspiration. This project is intended for learning and personal exploration only, not for commercial use or public release.
+    
+    ## 🤖 Introduction
+    This project is a **visually captivating website** inspired by [Zentry](https://zentry.com/).
+    It demonstrates how to combine **scroll-based animations, dynamic transitions, and immersive storytelling** into a modern frontend experience.
+    
+    The goal of this repo is to help developers explore **creative web design patterns**, experiment with animation frameworks, and improve UI/UX building skills.
+    
+    ## ⚙️ Tech Stack
+    - ⚛️ **React.js** – component-based frontend framework
+    - 🎨 **Tailwind CSS** – utility-first styling for fast, responsive layouts
+    - 🎬 **GSAP** – high-performance animations and scroll triggers
+    
+    ## 🔋 Features
+    👉 **Scroll Animations** – Smooth, interactive effects triggered by user scroll.
+    👉 **Geometric Transitions** – Unique CSS clip-path animations.
+    👉 **3D Hover Interactions** – Engaging, modern hover states.
+    👉 **Video Transitions** – Integrated video to enhance storytelling.
+    👉 **Responsive Layout** – Works seamlessly across devices.
+    👉 **Reusable Components** – Scalable and modular code structure.
+    
+    ## 🤸 Quick Start
+    
+    ### Prerequisites
+    - [Git](https://git-scm.com/)
+    - [Node.js](https://nodejs.org/en)
+    - [npm](https://www.npmjs.com/)
+    
+    **Installation**
+    
+    Install the project dependencies using npm:
+    
+    ```bash
+    npm install--animation-order) * 0.1s);
   }
 
   @keyframes indicator-line {
