@@ -1,5 +1,3 @@
-# 🌐 Award-Winning Website (Inspired Project)
-
 <div align="center">
   <br />
     <img src="https://github.com/user-attachments/assets/ab600f24-f4d9-4cef-8f1e-3fd9194afb30" alt="Project Banner">
@@ -12,6 +10,8 @@
   </div>
 </div>
 
+<h2 align="center">An Awwwards Winning Website</h2>
+
 ---
 
 ## 📋 Table of Contents
@@ -22,6 +22,12 @@
 5. 🕸️ [Snippets](#snippets)  
 6. 🔗 [Assets](#assets)  
 7. 🚀 [License & Credits](#license--credits)  
+
+---
+
+## ⚠️ Disclaimer
+
+Special thanks to **[Zentry](https://zentry.com/)** for the design inspiration. This project is intended for learning and personal exploration only, not for commercial use or public release.
 
 ---
 
